@@ -1,3 +1,3 @@
 # Lucene-step-word-scanner
 Apache Lucene\
-search engine for Hamshahri dataset
+Simple search engine
