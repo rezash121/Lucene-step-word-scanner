@@ -1,3 +1,2 @@
 # Lucene-step-word-scanner
-Apache Lucene\
-Simple search engine
+We implemented a simple search engine with Apache Lucene. 
